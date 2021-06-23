@@ -1,2 +1,2 @@
-# TimerForFiresport
-Arduino based Timer for firesport
+# casomiera
+Hasičská časomiera, arduino
